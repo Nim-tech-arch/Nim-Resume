@@ -1,3 +1,4 @@
+<img width="2040" height="1440" alt="1779043988-f5296709-cd05-496d-b865-aa2893b430ba" src="https://github.com/user-attachments/assets/19193ff0-4930-4b2d-a108-cc06946ba2d5" />
 # Nimrod Ainga - Resume
 
 <div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; color: #111827; line-height: 1.7; max-width: 900px; padding: 20px; background: #f8fafc; border-radius: 18px; box-shadow: 0 20px 60px rgba(15, 23, 42, 0.12);">
